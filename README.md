@@ -1,5 +1,5 @@
 # Telegram-phone-number-finder
-This python script uses for finding phone number of an user without any brute forve and any other ways, The require is only the username of account, or URL of profile, and The phone number will automatically display on the screen.
+This python script is using for finding phone number of user without any brute-force phone number or any other ways, The require is only the username of account, or URL of profile, and The phone number will automatically display on the screen.
 
 # PIP's
     pip install telethon==1.34.0
