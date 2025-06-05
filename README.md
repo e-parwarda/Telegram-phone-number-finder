@@ -5,6 +5,7 @@ This python script is using for finding phone number of user without any brute-f
     pip install telethon==1.34.0
     pip install python-telegram-bot==20.3
     git clone https://github.com/furry-execute/Telegram-phone-number-finder.git
+    cd Telegram-phone-number-finder
     python tg-phone.py
 
 # Before starting, you'll need:
