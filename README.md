@@ -14,7 +14,7 @@ This python script is using for finding phone number of user without any brute-f
  A Telegram account,
  Basic knowledge of command line operations.
 
-## Step 1: Get Your Telegram API Credentials
+## Steps : Get Your Telegram API Credentials
 
     Go to https://my.telegram.org/apps
 
