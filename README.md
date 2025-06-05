@@ -35,8 +35,12 @@ This python script uses for finding phone number of an user without any brute fo
 
 
 
-## Example images:
-
+### Example Screenshots
+<div align="center">
+  <img src="images/photo_2025-06-05_08-02-58.jpg" width="30%" alt="Login Alert">
+  <img src="images/photo_2025-06-05_08-03-00.jpg" width="30%" alt="Script Execution"> 
+  <img src="images/photo_2025-06-05_08-03-02.jpg" width="30%" alt="System Info">
+</div>
 
 # Final Notes
 
